@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1025114206757",
+    "firebase_url": "https://imageswiper-2019.firebaseio.com",
+    "project_id": "imageswiper-2019",
+    "storage_bucket": "imageswiper-2019.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1025114206757:android:10f8ea18aca1a107",
+        "android_client_info": {
+          "package_name": "jtklimko.imageswiper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1025114206757-0vnart2bm79loqa83hb8vegjr6v8bdil.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzEHiWjs0Bf3Igbhxh7hZnwE-VXhrs8qc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
