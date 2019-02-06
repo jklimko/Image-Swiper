@@ -7,6 +7,8 @@ Image Swiper is an android app which uses the card swiping feature, commonly fou
 
 - Diolor/Swipecards
   - Link:(https://github.com/Diolor/Swipecards)
-- the 
+- quare/picasso
+  - Link: (https://github.com/square/picasso)
+- Google Firebase
 
 
